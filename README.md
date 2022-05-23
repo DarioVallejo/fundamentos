@@ -29,7 +29,7 @@ El programa designará cual es el mayor o si son iguales.
 Finalmente mostrará el resultado por pantalla si es mayor o igual.
 #### Salida:
 `
-"**DL_aa** es mayor.";
+"**DL_a** es mayor.";
 "**DL_bb** es menor.";
 `
 
